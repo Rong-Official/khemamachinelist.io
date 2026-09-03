@@ -1,0 +1,6 @@
+{
+  "name": "Khema Digital Dental Solution",
+  "description": "Digital dental machine catalog and quotation system for modern dental laboratories and clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
